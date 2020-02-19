@@ -1,0 +1,24 @@
+﻿  error2.cpp
+C:\Users\LizOchka\source\repos\error2\error2.cpp(27,1): error C2144: синтаксическая ошибка: перед "double" требуется ";"
+C:\Users\LizOchka\source\repos\error2\error2.cpp(29,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\LizOchka\source\repos\error2\error2.cpp(39,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\LizOchka\source\repos\error2\error2.cpp(77,19): error C2562: main: функция типа "void", возвращающая значение
+C:\Users\LizOchka\source\repos\error2\error2.cpp(28): message : см. объявление "main"
+C:\Users\LizOchka\source\repos\error2\error2.cpp(81,4): error C2144: синтаксическая ошибка: перед "double" требуется ";"
+C:\Users\LizOchka\source\repos\error2\error2.cpp(108,19): error C2562: main: функция типа "void", возвращающая значение
+C:\Users\LizOchka\source\repos\error2\error2.cpp(28): message : см. объявление "main"
+C:\Users\LizOchka\source\repos\error2\error2.cpp(111,3): error C2601: origfunc: недопустимые локальные определения функций
+C:\Users\LizOchka\source\repos\error2\error2.cpp(29): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\LizOchka\source\repos\error2\error2.cpp(116,35): error C2065: end2: необъявленный идентификатор
+C:\Users\LizOchka\source\repos\error2\error2.cpp(116,42): error C2065: start2: необъявленный идентификатор
+C:\Users\LizOchka\source\repos\error2\error2.cpp(120,11): error C2065: end1: необъявленный идентификатор
+C:\Users\LizOchka\source\repos\error2\error2.cpp(120,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\LizOchka\source\repos\error2\error2.cpp(120,5): error C2365: time: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(532): message : см. объявление "time"
+C:\Users\LizOchka\source\repos\error2\error2.cpp(122,31): error C2065: end1: необъявленный идентификатор
+C:\Users\LizOchka\source\repos\error2\error2.cpp(122,37): error C2065: start1: необъявленный идентификатор
+C:\Users\LizOchka\source\repos\error2\error2.cpp(124,45): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\LizOchka\source\repos\error2\error2.cpp(124,5): error C2365: printf: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(948): message : см. объявление "printf"
+C:\Users\LizOchka\source\repos\error2\error2.cpp(125,1): error C2059: синтаксическая ошибка: }
+C:\Users\LizOchka\source\repos\error2\error2.cpp(125,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
